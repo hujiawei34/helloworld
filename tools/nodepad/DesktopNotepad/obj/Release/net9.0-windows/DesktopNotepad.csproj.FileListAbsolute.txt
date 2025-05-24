@@ -1,0 +1,15 @@
+D:\code\github\helloworld\tools\nodepad\DesktopNotepad\bin\Release\net9.0-windows\DesktopNotepad.exe
+D:\code\github\helloworld\tools\nodepad\DesktopNotepad\bin\Release\net9.0-windows\DesktopNotepad.deps.json
+D:\code\github\helloworld\tools\nodepad\DesktopNotepad\bin\Release\net9.0-windows\DesktopNotepad.runtimeconfig.json
+D:\code\github\helloworld\tools\nodepad\DesktopNotepad\bin\Release\net9.0-windows\DesktopNotepad.dll
+D:\code\github\helloworld\tools\nodepad\DesktopNotepad\bin\Release\net9.0-windows\DesktopNotepad.pdb
+D:\code\github\helloworld\tools\nodepad\DesktopNotepad\obj\Release\net9.0-windows\DesktopNotepad.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\github\helloworld\tools\nodepad\DesktopNotepad\obj\Release\net9.0-windows\DesktopNotepad.AssemblyInfoInputs.cache
+D:\code\github\helloworld\tools\nodepad\DesktopNotepad\obj\Release\net9.0-windows\DesktopNotepad.AssemblyInfo.cs
+D:\code\github\helloworld\tools\nodepad\DesktopNotepad\obj\Release\net9.0-windows\DesktopNotepad.csproj.CoreCompileInputs.cache
+D:\code\github\helloworld\tools\nodepad\DesktopNotepad\obj\Release\net9.0-windows\DesktopNotepad.sourcelink.json
+D:\code\github\helloworld\tools\nodepad\DesktopNotepad\obj\Release\net9.0-windows\DesktopNotepad.dll
+D:\code\github\helloworld\tools\nodepad\DesktopNotepad\obj\Release\net9.0-windows\refint\DesktopNotepad.dll
+D:\code\github\helloworld\tools\nodepad\DesktopNotepad\obj\Release\net9.0-windows\DesktopNotepad.pdb
+D:\code\github\helloworld\tools\nodepad\DesktopNotepad\obj\Release\net9.0-windows\DesktopNotepad.genruntimeconfig.cache
+D:\code\github\helloworld\tools\nodepad\DesktopNotepad\obj\Release\net9.0-windows\ref\DesktopNotepad.dll
